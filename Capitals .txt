@@ -1,0 +1,217 @@
+﻿53,163
+Abu Dhabi, 24.4539, 54.3773
+Jerusalem, 31.771959, 35.217018
+Amman, 31.963158, 35.930359
+Ankara, 39.925533, 32.866287
+Baghdad, 33.312805, 44.361488
+Kuwait, 29.378586, 47.990341
+Sana'a, 15.356695, 44.200218
+Doha, 25.286106, 51.534817
+Manama, 26.201000, 50.606998
+Riyadh, 24.774265, 46.738586
+Tunisia, 36.806389, 10.181667
+Muscat, 23.614328, 58.545284
+Beirut, 33.888630, 35.495480
+Khartoum, 15.508457, 32.522854
+Damascus, 33.510414, 36.278336
+Mogadishu, 2.046934, 45.318161
+Rabat, 34.020882, -6.841650
+Tripoli, 32.885353, 13.180161
+Nouakchott, 18.079021, -15.965662
+Cairo, 30.033333, 31.233334
+Djibouti, 11.572076, 43.145645
+Algiers, 36.737232, 3.086472
+Beijing, 39.916668, 116.383331
+Tokyo, 35.652832, 139.839478
+Paris, 48.864716, 2.349014
+Madrid, 40.416775, -3.703790
+Rome, 41.902782, 12.496366
+Berlin, 52.520008, 13.404954
+Moscow, 55.751244, 37.618423
+Warsaw, 52.237049, 21.017532
+Oslo, 59.911491, 10.757933
+Stockholm, 59.334591, 18.063240
+Helsinki, 60.192059, 24.945831
+Washington, 47.751076, -120.740135
+Mexico City, 19.432608, -99.133209
+New Delhi, 28.644800, 77.216721
+Ottawa, 45.424721, -75.695000
+Seoul, 37.532600, 127.024612
+Tehran, 35.715298, 51.404343
+Suva, -18.141600, 178.441895
+Saint-Denis, -20.878901, 55.448101
+Singapore, 1.290270, 103.851959
+Panama City, 8.983333, -79.516670
+Male, 1.924992, 73.399658
+Kyiv, 50.450001, 30.523333
+Bangkok, 13.736717, 100.523186
+Bogotá, 4.624335, -74.063644
+Buenos Aires, -34.603722, -58.381592
+Havana, 23.113592, -82.366592
+Kampala, 0.347596, 32.582520
+Lima City, -12.046374, -77.042793
+London, 51.509865, -0.118092
+Lusaka, -15.416667, 28.283333
+Abu Dhabi, Jerusalem, 300$, 210
+Abu Dhabi, Amman, 250$, 180
+Abu Dhabi, Ankara, 350$, 240
+Abu Dhabi, Baghdad, 200$, 165
+Abu Dhabi, Kuwait, 150$, 90
+Jerusalem, Amman, 100$, 120
+Jerusalem, Ankara, 200$, 150
+Amman, Baghdad, 180$, 150
+Amman, Doha, 220$, 180
+Ankara, Riyadh, 300$, 210
+Baghdad, Kuwait, 120$, 120
+Kuwait, Sana'a, 250$, 240
+Doha, Manama, 150$, 90
+Manama, Riyadh, 200$, 120
+Riyadh, Cairo, 300$, 240
+Abu Dhabi, Doha, 230$, 160
+Baghdad, Doha, 190$, 140
+Kuwait, Doha, 140$, 100
+Sana'a, Doha, 260$, 220
+Manama, Cairo, 280$, 230
+Riyadh, Jerusalem, 320$, 250
+Cairo, Beirut, 210$, 170
+Beirut, Damascus, 110$, 130
+Damascus, Amman, 150$, 110
+Amman, Beirut, 120$, 140
+Abu Dhabi, Muscat, 300$, 200
+Muscat, Kuwait, 250$, 180
+Kuwait, Baghdad, 160$, 120
+Manama, Beirut, 220$, 160
+Cairo, Baghdad, 300$, 210
+Khartoum, Cairo, 200$, 150
+Khartoum, Sana'a, 300$, 250
+Sana'a, Abu Dhabi, 320$, 270
+Baghdad, Damascus, 150$, 120
+Damascus, Kuwait, 170$, 130
+Amman, Muscat, 350$, 220
+Doha, Muscat, 200$, 150
+Abu Dhabi, Beirut, 300$, 210
+Cairo, Beirut, 250$, 170
+Beirut, Baghdad, 200$, 150
+Baghdad, Cairo, 300$, 200
+Cairo, Sana'a, 300$, 240
+Sana'a, Mogadishu, 350$, 260
+Damascus, Doha, 180$, 140
+Amman, Baghdad, 150$, 120
+Beirut, Manama, 220$, 170
+Cairo, Kuwait, 250$, 190
+Khartoum, Beirut, 180$, 140
+Khartoum, Doha, 200$, 150
+Baghdad, Abu Dhabi, 300$, 210
+Abu Dhabi, Muscat, 250$, 180
+Muscat, Riyadh, 300$, 230
+Riyadh, Kuwait, 150$, 120
+Kuwait, Jerusalem, 200$, 160
+Jerusalem, Baghdad, 180$, 130
+Baghdad, Muscat, 250$, 190
+Muscat, Beirut, 200$, 150
+Beirut, Cairo, 250$, 180
+Cairo, Damascus, 150$, 130
+Damascus, Riyadh, 200$, 150
+Riyadh, Khartoum, 300$, 240
+Khartoum, Baghdad, 250$, 200
+Baghdad, Muscat, 300$, 220
+Muscat, Cairo, 250$, 180
+Cairo, Abu Dhabi, 300$, 210
+Abu Dhabi, Khartoum, 250$, 180
+Khartoum, Beirut, 200$, 150
+Beirut, Cairo, 250$, 180
+Cairo, Muscat, 300$, 220
+Muscat, Doha, 250$, 190
+Doha, Kuwait, 150$, 120
+Kuwait, Baghdad, 200$, 160
+Baghdad, Riyadh, 300$, 210
+Riyadh, Damascus, 250$, 180
+Damascus, Khartoum, 200$, 150
+Khartoum, Cairo, 250$, 180
+Cairo, Baghdad, 300$, 220
+Baghdad, Muscat, 250$, 190
+Muscat, Abu Dhabi, 300$, 210
+Abu Dhabi, Beirut, 250$, 180
+Beirut, Cairo, 200$, 150
+Cairo, Damascus, 250$, 180
+Damascus, Riyadh, 300$, 220
+Riyadh, Khartoum, 250$, 190
+Khartoum, Baghdad, 300$, 210
+Baghdad, Abu Dhabi, 250$, 180
+Abu Dhabi, Muscat, 300$, 220
+Muscat, Doha, 250$, 190
+Doha, Kuwait, 150$, 120
+Kuwait, Baghdad, 200$, 160
+Baghdad, Riyadh, 300$, 210
+Riyadh, Damascus, 250$, 180
+Damascus, Khartoum, 200$, 150
+Khartoum, Cairo, 250$, 180
+Cairo, Baghdad, 300$, 220
+Baghdad, Muscat, 250$, 190
+Muscat, Abu Dhabi, 300$, 210
+Abu Dhabi, Beirut, 250$, 180
+Beirut, Cairo, 200$, 150
+Cairo, Damascus, 250$, 180
+Damascus, Riyadh, 300$, 220
+Riyadh, Khartoum, 250$, 190
+Khartoum, Baghdad, 300$, 210
+Baghdad, Abu Dhabi, 250$, 180
+Abu Dhabi, Muscat, 300$, 220
+Muscat, Doha, 250$, 190
+Doha, Kuwait, 150$, 120
+Kuwait, Baghdad, 200$, 160
+Baghdad, Riyadh, 300$, 210
+Riyadh, Damascus, 250$, 180
+Damascus, Khartoum, 200$, 150
+Khartoum, Cairo, 250$, 180
+Cairo, Baghdad, 300$, 220
+Baghdad, Muscat, 250$, 190
+Abu Dhabi, Muscat, 250$, 180
+Muscat, Riyadh, 300$, 230
+Riyadh, Kuwait, 150$, 120
+Kuwait, Jerusalem, 200$, 160
+Jerusalem, Baghdad, 180$, 130
+Baghdad, Muscat, 250$, 190
+Muscat, Beirut, 200$, 150
+Beirut, Cairo, 250$, 180
+Cairo, Damascus, 150$, 130
+Damascus, Riyadh, 200$, 150
+Riyadh, Khartoum, 300$, 240
+Khartoum, Baghdad, 250$, 200
+Baghdad, Muscat, 300$, 220
+Muscat, Cairo, 250$, 180
+Cairo, Abu Dhabi, 300$, 210
+Abu Dhabi, Khartoum, 250$, 180
+Khartoum, Beirut, 200$, 150
+Beirut, Cairo, 250$, 180
+Cairo, Muscat, 300$, 220
+Muscat, Doha, 250$, 190
+Doha, Kuwait, 150$, 120
+Kuwait, Baghdad, 200$, 160
+Baghdad, Riyadh, 300$, 210
+Riyadh, Damascus, 250$, 180
+Damascus, Khartoum, 200$, 150
+Khartoum, Cairo, 250$, 180
+Cairo, Baghdad, 300$, 220
+Baghdad, Muscat, 250$, 190
+Muscat, Abu Dhabi, 300$, 210
+Abu Dhabi, Beirut, 250$, 180
+Beirut, Cairo, 200$, 150
+Cairo, Damascus, 250$, 180
+Damascus, Riyadh, 300$, 220
+Riyadh, Khartoum, 250$, 190
+Khartoum, Baghdad, 300$, 210
+Baghdad, Abu Dhabi, 250$, 180
+Abu Dhabi, Muscat, 300$, 220
+Muscat, Doha, 250$, 190
+Doha, Kuwait, 150$, 120
+Abu Dhabi, Beirut, 250$, 180
+Beirut, Cairo, 200$, 150
+Cairo, Damascus, 250$, 180
+Damascus, Riyadh, 300$, 220
+Riyadh, Khartoum, 250$, 190
+Khartoum, Baghdad, 300$, 210
+Baghdad, Abu Dhabi, 250$, 180
+Abu Dhabi, Muscat, 300$, 220
+Muscat, Doha, 250$, 190
+Doha, Kuwait, 150$, 120
